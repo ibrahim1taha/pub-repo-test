@@ -6,6 +6,9 @@ int func(int x)
     return x * 8;
 }
 // this comment int main.cpp-func braaaaaanch
+
+// this comment in local
+// this comment in remote
 int main()
 {
     cout << "hello world in first code in my githup account";
