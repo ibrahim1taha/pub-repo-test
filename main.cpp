@@ -5,6 +5,7 @@ int func(int x)
 {
     return x * 8;
 }
+// this comment int main.cpp-func braaaaaanch
 int main()
 {
     cout << "hello world in first code in my githup account";
